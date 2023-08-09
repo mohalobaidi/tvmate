@@ -13,7 +13,6 @@
   "dependencies": {
     "axios": "^0.18.0",
     "axios-cache-adapter": "^2.1.1",
-    "axios-cloudflare": "^1.0.2",
     "cheerio": "^1.0.0-rc.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
